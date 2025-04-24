@@ -7,7 +7,6 @@
 ## 🚀 Deployment Details
 
 - **Web App:** [https://fuel-price-insights.streamlit.app/](https://fuel-price-insights.streamlit.app/)
-- **GitHub Repository:** [https://github.com/shubhampatil-7/fuel-price-insights](https://github.com/shubhampatil-7/fuel-price-insights)
 
 ---
 
